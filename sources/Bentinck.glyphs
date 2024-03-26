@@ -1,6 +1,9 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+l
+);
 customParameters = (
 {
 name = panose;
@@ -47,6 +50,52 @@ date = "2023-05-20 19:28:09 +0000";
 familyName = Bentinck;
 fontMaster = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 800;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 800;
+},
+{
+name = winDescent;
+value = 200;
+},
+{
+name = hheaAscender;
+value = 800;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -75;
+},
+{
+name = strikeoutPosition;
+value = 250;
+},
+{
+name = strikeoutSize;
+value = 50;
+}
+);
 id = m01;
 metricValues = (
 {
@@ -70,6 +119,10 @@ pos = -200;
 }
 );
 name = Regular;
+stemValues = (
+90,
+26
+);
 userData = {
 GSExtrudeAngle = 45;
 GSExtrudeDontSubtract = 1;
@@ -11904,6 +11957,15 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "https://openfontlicense.org";
+}
+);
+stems = (
+{
+horizontal = 1;
+name = hstem0;
+},
+{
+name = vstem0;
 }
 );
 unitsPerEm = 1000;
