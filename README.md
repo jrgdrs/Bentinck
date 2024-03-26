@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjrgdrs%2FBentinck%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjrgdrs%2FBentinck%2Fgh-pages%2Fbadges%2FUniversal.json
 
-The font interprets a didone in soft and restrained shapes. There is only a regular versionvavailable.
+The font interprets a didone in soft and restrained shapes. There is only the regular version available.
 
 
 ![Sample Image](documentation/image-Regular.png)
